@@ -1,0 +1,47 @@
+*{
+    background-color: #9b9896;
+    font-family: "Poppins", sans-serif;
+}
+#cxprincipal{
+    width: 400px;
+    height: 500px;
+    position: relative;
+    border-radius: 3%;
+    margin: auto;
+    margin-top: 10%;
+    background-color: #407243;
+}
+
+#cxfigura{
+    width: 300px;
+    height: 200px;
+    position: absolute;
+    border-radius: 3%;
+    margin-top: 20px;
+    margin-left: 50px;
+    background-color: #eeeeee;
+}
+
+#cxmenu{
+    width: 300px;
+    height: 250px;
+    position: absolute;
+    border-radius: 3%;
+    margin-top: 230px;
+    margin-left: 50px;
+    background-color: #1c381b;
+}
+
+.fig1{
+    width: 70%;
+    height: 100%;
+    margin-left: 15%;
+    background-color: transparent;
+}
+
+form, h1{
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    background-color: transparent;
+}

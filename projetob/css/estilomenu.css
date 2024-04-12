@@ -1,0 +1,111 @@
+*{
+    background-color: #b4ceae;
+    font-family: "Poppins", sans-serif;
+}
+
+#cxprincipal{
+    width: 1000px;
+    height: 1000px;
+    border: 1px solid rgb(94, 116, 89);
+    position: relative;
+    margin: auto;
+}
+#banner{
+    width: 100%;
+    height: 200px;
+    background-color: #2e4729;
+    position:absolute;
+}
+#cxamigo{
+    width: 333px;
+    height: 333px;
+    border: 1px solid #000;
+    position: absolute;
+    margin-top: 200px;
+}
+#cxcomercio{
+    width: 333px;
+    height: 333px;
+    border: 1px solid #000;
+    position: absolute;
+    margin-top: 200px;
+    margin-left: 333px;
+}
+#cxusuario{
+    width: 333px;
+    height: 333px;
+    border: 1px solid #000;
+    position: absolute;
+    margin-top: 200px;
+    margin-left: 666px;
+}
+#cxconsultaamigo{
+    width: 333px;
+    height: 333px;
+    border: 1px solid #000;
+    position: absolute;
+    margin-top: 533px;
+}
+#cxconsultacomercio{
+    width: 333px;
+    height: 333px;
+    border: 1px solid #000;
+    position: absolute;
+    margin-top: 533px;
+    margin-left: 333px;
+}
+#cxconsultauser{
+    width: 333px;
+    height: 333px;
+    border: 1px solid rgb(61, 59, 59);
+    position: absolute;
+    margin-top: 533px;
+    margin-left: 666px;
+}
+#rodape{
+    width: 100%;
+    height: 135px;
+    position: absolute;
+    margin-top: 866px;
+    background-color: #2e4729;
+}
+h3{
+    background-color: transparent;
+    color: white;
+    text-align: center;
+    margin-top: 4%;
+}
+h1{
+    background-color: transparent;
+    text-align: center;
+    margin-top: 4%;
+    font-size: 80px;
+}
+
+nav, h4{
+    font-weight: 300;
+    font-size: 40px;
+    margin: auto;
+    margin-top: 20%;
+    text-align: center;
+}
+.brilho{
+    background-color: transparent;
+    width: 10%;
+    height: 70%; 
+}
+
+
+
+.alterar, .deletar{
+    background-color: transparent;
+    width: 10%;
+    height: 10%;
+}
+a{
+    text-decoration: none;
+    color: #000;
+}
+a:hover{
+    color: #e6da39;
+}
